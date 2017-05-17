@@ -3127,13 +3127,31 @@
 
 	}
 
-	.languages {
+	.skills div {
 		display: flex;
 		justify-content: space-between;
+		text-align: center;
+	}
+
+	.skills svg {
+		height: 45.28px;
+		height: 45.28px;
+	}
+
+	.languages li:not(:last-child) {
+		padding: 0 0 30px 0;
+	}
+
+	ul.languages {
+		margin: 0;
 	}
 
 	.profile-pic {
 		width: 350px;
 		height: auto;
 		border-radius: 50%;
+	}
+
+	.languages .icons {
+		font-size: 45.28px;
 	}
