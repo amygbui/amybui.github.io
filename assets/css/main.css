@@ -3156,3 +3156,16 @@
 	.languages .icons {
 		font-size: 45.28px;
 	}
+
+	.currentInterests {
+		text-align: center;
+	}
+
+	.currentInterests header p {
+		margin-bottom: 0;
+		font-weight: bold;
+	}
+
+	.addInterest {
+		margin-top: 40px;
+	}
